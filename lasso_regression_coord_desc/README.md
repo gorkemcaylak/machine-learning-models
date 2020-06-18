@@ -1,0 +1,1 @@
+Lasso regression with coordinate descent. The first script uses synthetic data to create the model. The second script uses real-world crime data and applies the lasso regression model.
