@@ -1,0 +1,1 @@
+PCA on MNIST data set reduces the dimension to get the most variant characteristics among data. The model uses the covariance matrix to reduce dimension selecting the top k eigenvalues. The digits can then be reconstructed using those eigenvectors. 

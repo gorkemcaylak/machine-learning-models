@@ -1,0 +1,1 @@
+Simple implementations for two neural network architectures. The first one is wider and shallower, other is deeper and narrower. One-hot coding is used to designate the 10 classes in MNIST data set.
