@@ -1,0 +1,1 @@
+This model constructs 4 neural network architectures for CIFAR data set and tunes them to get the best validation accuracy.

@@ -1,0 +1,1 @@
+Matrix completion techniques for the sparse matrix of users' movie ratings data. Averaging for movies, reconstruction from the original matrix, alternating minimization, stochastic gradient descent techniques are used. Best result is achieved with the stochastic gradient descent by including and minimizing the bias term's error in addition to weight vectors.

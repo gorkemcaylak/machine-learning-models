@@ -1,0 +1,1 @@
+Autoencoder is another method (in addition to PCA) to reduce dimensionality and reconstruct the data from the reduced dimensions. This model is applied on MNIST data set and the reconstructed digits are displayed.
